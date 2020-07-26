@@ -1,4 +1,4 @@
-#"Hello, World” RESTful web service with Spring and Azure
+# "Hello, World” RESTful web service with Spring and Azure
 
 **Links para as documentações utilizadas**
 
